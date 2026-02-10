@@ -1,6 +1,6 @@
-# iWMM Works - プライバシーポリシー
+# Hiroyuki Takeda - プライバシーポリシー
 
-iWMM Works が提供するアプリケーション用のプライバシーポリシーページです。
+Hiroyuki Takeda が提供するアプリケーション用のプライバシーポリシーページです。
 GitHub Pages でホスティングしています。
 
 ## 公開URL
